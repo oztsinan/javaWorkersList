@@ -1,0 +1,5 @@
+ID , Name , Salary , Department , City
+1 , Sinan , 8000 , Front-End , istanbul
+2 , Ahmet , 8000 , Backend , istanbul
+3 , Fatma , 2000 , Front-End , balikesir
+4 , Caner , 7000 , Back-End , balikesir

@@ -1,1 +1,8 @@
-# javaWorkerList
+
+## Java kullanarak , txt dosyalardan veri alma ve tek dizide çalışanlara ait verileri tutmak
+### - txt dosyasından okunan satıra göre oto kişi sayısı belirleme ve güncel verileri kullanma...
+![](https://i.ibb.co/C5dj5J3/code.png)
+### Fonksiyonlar ve sabit değişkenlerle çalışma...
+![](https://i.ibb.co/RjT6pXM/code2.png)
+### Kullanıcının aradığı şehiri , dizide arama ve ekrana yazdırma...
+![](https://i.ibb.co/R7GwprB/code3.png)
